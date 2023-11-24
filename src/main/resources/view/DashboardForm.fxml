@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="pane" prefHeight="486.0" prefWidth="675.0" style="-fx-background-color: yellow;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.DashboardFormController">
+   <children>
+      <ImageView fitHeight="581.0" fitWidth="615.0" layoutX="30.0" layoutY="12.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../img/a6393e8379117aee8dcb1e8bca577885.jpg" />
+         </image>
+      </ImageView>
+      <Button fx:id="btnCustomer" layoutX="77.0" layoutY="404.0" mnemonicParsing="false" onAction="#btnCustomerOnAction" prefHeight="51.0" prefWidth="123.0" text="Customer" />
+      <Label fx:id="lblTime" alignment="CENTER" layoutX="71.0" layoutY="26.0" prefHeight="43.0" prefWidth="123.0" text="HH:mm:ss" textFill="#8a3d3d">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnItem" layoutX="465.0" layoutY="404.0" mnemonicParsing="false" onAction="#btnItemOnAction" prefHeight="51.0" prefWidth="123.0" text="Item" />
+      <Label fx:id="lblDate" alignment="CENTER" layoutX="429.0" layoutY="36.0" prefHeight="43.0" prefWidth="123.0" text="dd:MM:yyyy" textFill="#8a3d3d">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+
+   </children>
+</AnchorPane>

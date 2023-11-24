@@ -1,0 +1,39 @@
+
+Q
+java:S37406"/Provide the parametrized type for this generic.(íý’­úÿÿÿÿ8Ý¢•“À1
+Q
+java:S37409"/Provide the parametrized type for this generic.(Ú¢éÕùÿÿÿÿ8Þ¢•“À1
+Q
+java:S3740<"/Provide the parametrized type for this generic.(ýÀ³þÿÿÿÿ8Þ¢•“À1
+Q
+java:S3740?"/Provide the parametrized type for this generic.(ýø–»þÿÿÿÿ8Þ¢•“À1
+Q
+java:S3740B"/Provide the parametrized type for this generic.(Èâ–úÿÿÿÿ8Þ¢•“À1
+m
+java:S2095¥"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ìû—8Œ£•“À1
+j
+java:S2095Å"GUse try-with-resources or close this "Statement" in a "finally" clause.(ôÅ¹Îýÿÿÿÿ8Œ£•“À1
+i
+java:S2095d"GUse try-with-resources or close this "Statement" in a "finally" clause.(ôÅ¹Îýÿÿÿÿ8Œ£•“À1
+m
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ìû—8Œ£•“À1
+N
+java:S1602O",Remove useless curly braces around statement(Ñ¡Õùÿÿÿÿ8£•“À1
+I
+java:S1602n",Remove useless curly braces around statement(ë¹¬8•£•“À1
+I
+java:S2695¦"+This "PreparedStatement" has no parameters.(îÁí½8¡£•“À1
+I
+java:S2695§"+This "PreparedStatement" has no parameters.(öÂÔÊ8¡£•“À1
+I
+java:S2695¨"+This "PreparedStatement" has no parameters.(ÅÅªÚ8¢£•“À1
+N
+java:S2695©"+This "PreparedStatement" has no parameters.(Ÿ¤‹Ìøÿÿÿÿ8¢£•“À1
+^	java:S125®"<This block of commented-out lines of code should be removed.( š¯åúÿÿÿÿ8££•“À1
+^	java:S125Ê"<This block of commented-out lines of code should be removed.( š¯åúÿÿÿÿ8¥£•“À1
+F
+java:S1128	")Remove this unused import 'dto.Customer'.(Ç¤Õ¡8¥£•“À1
+P
+java:S1128".Remove this unused import 'dto.tm.CustomerTm'.(Ä¶™ûÿÿÿÿ8¥£•“À1
+Z
+java:S1128"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿ8¦£•“À1
